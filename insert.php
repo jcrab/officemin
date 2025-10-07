@@ -4,7 +4,7 @@
         $username = $_SESSION['user'];
     } else {
         header("location:login.php");
-	exit;
+		exit;
     }
 ?>
 <!DOCTYPE html>
