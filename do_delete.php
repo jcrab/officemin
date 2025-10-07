@@ -1,3 +1,4 @@
+<!-- make sure that Mallory cannot bypass the login -->
 <!DOCTYPE html>
 <html>
     <head>
