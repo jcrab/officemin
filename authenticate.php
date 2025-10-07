@@ -11,7 +11,7 @@ if (!empty($uname) && !empty($pwd)) {
     if ($pwd === "letmein") {
         $_SESSION['user'] = $uname;
         header("location: index.php");
-	exit;
+		exit;
     }
 }
 ?>
